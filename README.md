@@ -21,3 +21,8 @@ A quick tool to remove backgrounds is https://www.remove.bg/
 
 
 And if you make an AWESOME slackmoji related to astronomy or explanets, create a pull request! I'm happy to merge it into this repo for everyone to use :)
+
+
+------------------------------------------
+
+Remeber, every slackmoji you add to slack is available in every *channel* of the workspace, but you have to add them to each *workspace* separately. 
